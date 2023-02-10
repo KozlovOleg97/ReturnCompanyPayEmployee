@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using CalculateHoursForWorkLibrary.Models;
 using CalculateHoursForWorkLibrary.ProcessForConsole;
+using FakeDBLibrary;
 
 namespace ConsoleUI
 {
@@ -14,8 +15,8 @@ namespace ConsoleUI
 		static void Main(string[] args)
 		{
 			List<TimeSheetEntryModel> timeSheets = LoadTimesSheetsContext.GetLoadTimesSheetsContext();
-			List<CustomerModel> customers = DataAccess.GetCustomers();
-			EmployeeModel currentEmployee = DataAccess.GetCurrentEmployee();
+			List<CustomerModel> customers = DataCompany.GetCompany();
+			EmployeeModel currentEmployee = DataEmployee.GetCurrentEmployee();
 
 			customers.ForEach(x => AccountCustomer.BillCustomer(timeSheets, x));
 
