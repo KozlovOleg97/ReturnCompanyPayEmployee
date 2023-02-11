@@ -1,0 +1,12 @@
+D:\Projects\CalculateHoursForWorkLibrary\bin\Debug\net5.0\CalculateHoursForWorkLibrary.deps.json
+D:\Projects\CalculateHoursForWorkLibrary\bin\Debug\net5.0\CalculateHoursForWorkLibrary.dll
+D:\Projects\CalculateHoursForWorkLibrary\bin\Debug\net5.0\CalculateHoursForWorkLibrary.pdb
+D:\Projects\CalculateHoursForWorkLibrary\obj\Debug\net5.0\CalculateHoursForWorkLibrary.csproj.AssemblyReference.cache
+D:\Projects\CalculateHoursForWorkLibrary\obj\Debug\net5.0\CalculateHoursForWorkLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CalculateHoursForWorkLibrary\obj\Debug\net5.0\CalculateHoursForWorkLibrary.AssemblyInfoInputs.cache
+D:\Projects\CalculateHoursForWorkLibrary\obj\Debug\net5.0\CalculateHoursForWorkLibrary.AssemblyInfo.cs
+D:\Projects\CalculateHoursForWorkLibrary\obj\Debug\net5.0\CalculateHoursForWorkLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\CalculateHoursForWorkLibrary\obj\Debug\net5.0\CalculateHoursForWorkLibrary.dll
+D:\Projects\CalculateHoursForWorkLibrary\obj\Debug\net5.0\refint\CalculateHoursForWorkLibrary.dll
+D:\Projects\CalculateHoursForWorkLibrary\obj\Debug\net5.0\CalculateHoursForWorkLibrary.pdb
+D:\Projects\CalculateHoursForWorkLibrary\obj\Debug\net5.0\ref\CalculateHoursForWorkLibrary.dll
