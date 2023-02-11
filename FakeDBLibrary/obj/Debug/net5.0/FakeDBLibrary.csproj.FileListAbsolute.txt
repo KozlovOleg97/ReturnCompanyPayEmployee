@@ -1,0 +1,15 @@
+D:\Projects\FakeDBLibrary\bin\Debug\net5.0\FakeDBLibrary.deps.json
+D:\Projects\FakeDBLibrary\bin\Debug\net5.0\FakeDBLibrary.dll
+D:\Projects\FakeDBLibrary\bin\Debug\net5.0\FakeDBLibrary.pdb
+D:\Projects\FakeDBLibrary\bin\Debug\net5.0\CalculateHoursForWorkLibrary.dll
+D:\Projects\FakeDBLibrary\bin\Debug\net5.0\CalculateHoursForWorkLibrary.pdb
+D:\Projects\FakeDBLibrary\obj\Debug\net5.0\FakeDBLibrary.csproj.AssemblyReference.cache
+D:\Projects\FakeDBLibrary\obj\Debug\net5.0\FakeDBLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\FakeDBLibrary\obj\Debug\net5.0\FakeDBLibrary.AssemblyInfoInputs.cache
+D:\Projects\FakeDBLibrary\obj\Debug\net5.0\FakeDBLibrary.AssemblyInfo.cs
+D:\Projects\FakeDBLibrary\obj\Debug\net5.0\FakeDBLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\FakeDBLibrary\obj\Debug\net5.0\FakeDBLibrary.csproj.CopyComplete
+D:\Projects\FakeDBLibrary\obj\Debug\net5.0\FakeDBLibrary.dll
+D:\Projects\FakeDBLibrary\obj\Debug\net5.0\refint\FakeDBLibrary.dll
+D:\Projects\FakeDBLibrary\obj\Debug\net5.0\FakeDBLibrary.pdb
+D:\Projects\FakeDBLibrary\obj\Debug\net5.0\ref\FakeDBLibrary.dll
